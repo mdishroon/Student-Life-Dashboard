@@ -1,5 +1,3 @@
-***
-
 # Student Lifestyle Analytics Dashboard
 
 An interactive Python-based web application that analyzes the relationship between student lifestyle factors and academic performance. This project utilizes a full-stack data approach, featuring an ETL pipeline and a local SQLite database.
