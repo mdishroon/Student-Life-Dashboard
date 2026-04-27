@@ -16,7 +16,8 @@ An interactive Python-based web application that analyzes the relationship betwe
 * **Backend**: SQLite3, Pandas
 * **Deployment Ready**: Configured for local or cloud environments.
 
-
+## Data Source
+The dataset used in this project is the Student Lifestyle and Academic Performance Dataset, which is available on [Kaggle](https://www.kaggle.com/datasets/rafi003/student-lifestyle-and-academic-performance-dataset)
 
 ## Installation and Setup
 
